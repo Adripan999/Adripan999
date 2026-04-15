@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'am Adripan</b><img alt="Hola" height="70px" width="70px" align="center" src="https://media.tenor.com/1lfK9QTEeewAAAAi/seal-dugong.gif"></img></h1>
+<h1 align="center"><b>Hello, I'am Adripan </b><img alt="Hola" height="70px" width="70px" align="center" src="https://media.tenor.com/k1kQPZlRpgoAAAAi/sappy-seals.gif"></img></h1>
 
 <!--
 **Adripan999/Adripan999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
